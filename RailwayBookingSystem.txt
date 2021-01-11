@@ -1,14 +1,4 @@
 URL: http://ec2-18-191-251-104.us-east-2.compute.amazonaws.com:8080/cs336Project/
 
-Amazon EC2 Username: Group 45
-Amazon EC2 Password: Pass4CS336
-
-Apache Tomcat Username: Group 45
-Apache Tomcat Password: Pass4CS336
-
-Admin Username: admin
-Admin Password: password
-
-(Master Admin can create new schedules with a script)
-Master Admin Username: masterAdmin
-Master Admin Password: masterPassword
+Amazon EC2 Instance
+Apache Tomcat WebServer Connectivity
